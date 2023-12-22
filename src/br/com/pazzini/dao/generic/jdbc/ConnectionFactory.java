@@ -8,7 +8,6 @@ import java.sql.SQLException;
 
 /**
  * Descrição: Classe responsável por fornecer conexões com o banco de dados.
- * Criada por calle em 19/09/2023.
  */
 public class ConnectionFactory {
 
