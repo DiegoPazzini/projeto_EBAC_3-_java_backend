@@ -2,9 +2,9 @@
 package br.com.pazzini.dao.generic.jdbc;
 
 // Importações necessárias
-import br.com.calleb.dao.generic.jdbc.dao.IProdutoDAO;
-import br.com.calleb.dao.generic.jdbc.dao.ProdutoDAO;
-import br.com.calleb.dao.generic.jdbc.domain.Produto;
+import br.com.pazzini.dao.generic.jdbc.dao.IProdutoDAO;
+import br.com.pazzini.dao.generic.jdbc.dao.ProdutoDAO;
+import br.com.pazzini.dao.generic.jdbc.domain.Produto;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
