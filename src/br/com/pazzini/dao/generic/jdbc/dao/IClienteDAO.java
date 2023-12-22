@@ -1,8 +1,8 @@
 // Pacote que contém a interface
-package br.com.calleb.dao.generic.jdbc.dao;
+package br.com.pazzini.dao.generic.jdbc.dao;
 
 // Importação da classe Cliente
-import br.com.calleb.dao.generic.jdbc.domain.Cliente;
+import br.com.pazzini.dao.generic.jdbc.domain.Cliente;
 
 // Importação da interface List
 import java.util.List;
