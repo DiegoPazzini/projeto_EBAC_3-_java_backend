@@ -1,6 +1,6 @@
 # Projeto EBAC 3 - Java Backend
 
-Este é o Projeto 03 do curso de Java Backend da EBAC, onde desenvolvemos um sistema que se conecta a um banco de dados PostgreSQL. O projeto engloba a implementação das operações CRUD (Criar, Ler, Atualizar e Excluir) para as entidades Cliente e Produto.
+Este é o Projeto 03 do curso de Java Backend da EBAC, onde foi desenvolvido um sistema que se conecta a um banco de dados PostgreSQL. O projeto engloba a implementação das operações CRUD (Criar, Ler, Atualizar e Excluir) para as entidades Cliente e Produto.
 
 Funcionalidades
 
