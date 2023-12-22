@@ -17,7 +17,6 @@ import static org.junit.Assert.*;
 
 /**
  * Descrição: Classe de teste para a classe ClienteDAO, que realiza operações de teste sobre as operações CRUD de Cliente.
- * Criada por calle em 19/09/2023.
  */
 public class ClienteTest {
     
