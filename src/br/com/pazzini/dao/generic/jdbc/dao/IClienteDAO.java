@@ -9,7 +9,6 @@ import java.util.List;
 
 /**
  * Descrição: Interface que define operações de acesso a dados para a entidade Cliente.
- * Criada por calle em 19/09/2023.
  */
 public interface IClienteDAO {
 
