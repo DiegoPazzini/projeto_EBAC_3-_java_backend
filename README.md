@@ -13,9 +13,13 @@ cadastrar: Método para cadastrar um novo cliente no banco de dados.
 
 # Produto:
 buscar: Método para buscar um produto pelo CÓDIGO.
+
 buscarTodos: Método para buscar todos os produtos no banco de dados.
+
 atualizar: Método para atualizar informações de um produto existente.
+
 excluir: Método para excluir um produto do banco de dados.
+
 cadastrar: Método para cadastrar um novo produto no banco de dados.
 
 # Estrutura do Projeto
