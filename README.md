@@ -6,9 +6,13 @@ Funcionalidades
 
 # Cliente:
 buscar: Método para buscar um cliente pelo CÓDIGO.
+
 buscarTodos: Método para buscar todos os clientes no banco de dados.
+
 atualizar: Método para atualizar informações de um cliente existente.
+
 excluir: Método para excluir um cliente do banco de dados.
+
 cadastrar: Método para cadastrar um novo cliente no banco de dados.
 
 # Produto:
@@ -26,9 +30,13 @@ cadastrar: Método para cadastrar um novo produto no banco de dados.
 A estrutura do projeto está organizada da seguinte forma:
 
 ClienteDAO: Classe responsável pelas operações de acesso ao banco de dados relacionadas aos clientes.
+
 ProdutoDAO: Classe responsável pelas operações de acesso ao banco de dados relacionadas aos produtos.
+
 ConnectionFactory: Classe que estabelece a conexão com o banco de dados PostgreSQL.
+
 ClienteTest: Classe de testes para os métodos relacionados aos clientes.
+
 ProdutoTest: Classe de testes para os métodos relacionados aos produtos.
 
 ## Skills utilizadas:
