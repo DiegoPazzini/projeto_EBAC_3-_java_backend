@@ -14,7 +14,6 @@ import java.util.List;
 
 /**
  * Descrição: Classe de acesso a dados (DAO) para a entidade Cliente.
- * Criada por calle em 19/09/2023.
  */
 public class ClienteDAO implements IClienteDAO {
 
