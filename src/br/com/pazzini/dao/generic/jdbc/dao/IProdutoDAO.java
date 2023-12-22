@@ -8,7 +8,6 @@ import java.util.List;
 
 /**
  * Descrição: Interface que define operações de acesso a dados (DAO) para a entidade Produto.
- * Criada por calle em 20/09/2023.
  */
 public interface IProdutoDAO {
 
