@@ -17,7 +17,6 @@ import static org.junit.Assert.*;
 
 /**
  * Descrição: Classe de teste para a classe ProdutoDAO, que realiza operações de teste sobre as operações CRUD de Produto.
- * Criada por calle em 20/09/2023.
  */
 public class ProdutoTest {
 
