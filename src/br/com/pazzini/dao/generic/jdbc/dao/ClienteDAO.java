@@ -1,9 +1,9 @@
 // Pacote que contém a classe
-package br.com.calleb.dao.generic.jdbc.dao;
+package br.com.pazzini.dao.generic.jdbc.dao;
 
 // Importações necessárias
-import br.com.calleb.dao.generic.jdbc.ConnectionFactory;
-import br.com.calleb.dao.generic.jdbc.domain.Cliente;
+import br.com.pazzini.dao.generic.jdbc.ConnectionFactory;
+import br.com.pazzini.dao.generic.jdbc.domain.Cliente;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
