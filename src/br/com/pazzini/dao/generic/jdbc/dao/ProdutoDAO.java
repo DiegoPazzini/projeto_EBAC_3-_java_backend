@@ -15,7 +15,6 @@ import java.util.Objects;
 
 /**
  * Descrição: Classe que implementa a interface IProdutoDAO para operações de acesso a dados relacionadas a Produto.
- * Criada por calle em 20/09/2023.
  */
 public class ProdutoDAO implements IProdutoDAO {
 
