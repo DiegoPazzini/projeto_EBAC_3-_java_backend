@@ -23,3 +23,8 @@ ProdutoDAO: Classe responsável pelas operações de acesso ao banco de dados re
 ConnectionFactory: Classe que estabelece a conexão com o banco de dados PostgreSQL.
 ClienteTest: Classe de testes para os métodos relacionados aos clientes.
 ProdutoTest: Classe de testes para os métodos relacionados aos produtos.
+
+## Skills utilizadas:
+<div style="display: inline_block"><br>
+   <img align="center" alt="Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Spring" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
